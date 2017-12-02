@@ -5,8 +5,8 @@
 
 
 ## The assignment requires:
-1 MongoDb
-2 Hapi
-3 Postman
-4 DotEnv
-5 Joi
+1. MongoDb
+2. Hapi
+3. Postman
+4. DotEnv
+5. Joi
