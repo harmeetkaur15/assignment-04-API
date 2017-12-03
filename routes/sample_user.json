@@ -1,0 +1,11 @@
+{
+        "name": "Harmeet",
+        "email": "abcd@gmail.com",
+        "booksborrowed": {
+            "bookid": 3312,
+            "issuedate": "2017-01-04T08:00:00.000Z"
+            "duedate": "2017-01-08T08:00:00.000Z"
+        },
+        "booksreservedID": 345,
+        "latefees": 0
+    }

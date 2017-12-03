@@ -1,0 +1,15 @@
+{
+        
+        "title": "Node.js in Action",
+        "author": "Mike Cantelon",
+        "genre": "Education",
+        "publish": {
+            "dateofpublication": "1995-02-02T08:00:00.000Z",
+            "publishername": "GoodWork"
+        },
+        "copies": {
+            "edition": 2,
+            "quantity": 16,
+            "availability": "yes"
+        }
+    }
