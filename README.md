@@ -1,7 +1,7 @@
 # assignment-04-API
 #### Group Members:
-1. Harmeet Kaur
-2. Jatinderdeep Singh Johal
+1. Harmeet Kaur(100284016)
+2. Jatinderdeep Singh Johal(100284947)
 
 
 ## The assignment requires:
