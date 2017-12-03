@@ -10,3 +10,6 @@
 3. Postman
 4. DotEnv
 5. Joi
+
+In his assignment mongoDb module is used and postman is used to test the Api.
+DotEnv contains the url of the database.
